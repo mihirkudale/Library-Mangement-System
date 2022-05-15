@@ -1,2 +1,4 @@
 # Library Mangement System
- lib mgmt app repo
+ - Group Members
+ 1. Mihir Kudale
+ 2. Prashant Kadam
